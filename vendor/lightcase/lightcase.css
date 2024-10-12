@@ -30,7 +30,7 @@
   font-family: 'lightcase', sans-serif;
   font-style: normal;
   font-weight: normal;
-  speak: none;
+  /*speak: none;*/
   display: inline-block;
   text-decoration: inherit;
   width: 1em;
@@ -214,7 +214,7 @@
     -moz-box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
     -o-box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
     box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
-    -webkit-backface-visibility: hidden;
+    /*-webkit-backface-visibility: hidden;*/
   }
 }
 @media screen and (min-width: 641px) {
@@ -429,7 +429,7 @@ html[data-lc-type=image] #lightcase-content .lightcase-contentInner {
   opacity: 1;
   font-size: 32px;
   text-shadow: 0 0 15px #fff;
-  -moz-transform-origin: 50% 53%;
+  /*-moz-transform-origin: 50% 53%;*/
   -webkit-animation: lightcase-spin 0.5s infinite linear;
   -moz-animation: lightcase-spin 0.5s infinite linear;
   -o-animation: lightcase-spin 0.5s infinite linear;
